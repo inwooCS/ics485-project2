@@ -1,4 +1,4 @@
-# ICS 485/685 Project 2 (Augmented Reality with Azure Kinect) 
+# ICS 485/685 Project 2 (AR w/ Azure Kinect) 
 
 ## Developers: In Woo Park, Hansen Cabanero, Jade Cui
 
